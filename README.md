@@ -1,2 +1,2 @@
-# HHA-506-
-Research design and methodology for health informatics 
+# HHA506_YRBB_DATA
+Case study research design and methodology focusing on adolescent obesity within the United States. 
